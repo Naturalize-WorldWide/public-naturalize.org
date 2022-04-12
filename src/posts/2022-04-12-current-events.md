@@ -11,7 +11,9 @@ Official Invite
 
 Donate now
 
-| BioBlitz Details | April 23rd, 2022 9:00AM - 8:00PM                        |
-| ---------------- | ------------------------------------------------------- |
-|                  | ![](/assets/images/posts/bioblitz-rsvp-form-qrcode.png) |
-| Paragraph        | Text                                                    |
+
+
+| BioBlitz Details                              | April 23rd, 2022 9:00AM - 8:00PM                        |
+| --------------------------------------------- | ------------------------------------------------------- |
+| ![](/assets/images/posts/bmbb-invite-1-1.png) | ![](/assets/images/posts/bioblitz-rsvp-form-qrcode.png) |
+| ![](/assets/images/posts/logo.png)| ![](/assets/images/posts/bmbb-invite-1-2.png) |
