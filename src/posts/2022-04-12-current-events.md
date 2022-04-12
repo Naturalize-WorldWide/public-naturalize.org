@@ -11,4 +11,7 @@ Official Invite
 
 Donate now
 
-`<iframe src="[https://discord.com/widget?id=945091374758375504&theme=dark](https://discord.com/widget?id=945091374758375504&theme=dark "https\://discord.com/widget?id=945091374758375504&theme=dark")" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>`
+| BioBlitz Details | April 23rd, 2022 9:00AM - 8:00PM |
+| ---------------- | -------------------------------- |
+| Header           |                                  |
+| Paragraph        | Text                             |
