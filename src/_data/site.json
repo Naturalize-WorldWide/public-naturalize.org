@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
-  "url": "https://example.com",
+  "site_name": "Naturalize World-Wide",
+  "title": "Naturalize World-Wide!",
+  "description": "Naturalize World-Wide! Starting witht the most bio-diverse county in the continental US.",
+  "url": "https://naturalize.org",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Bryce Wilson - President"
 }
