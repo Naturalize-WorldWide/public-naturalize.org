@@ -9,5 +9,5 @@ Place Holder Body
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| ![Place Holder Alt Text](/assets/images/posts/logo.png "Place Holder Title") | ![Place Holder Alt Text](/assets/images/posts/logo.png "Place Holder Title") |
+| ![Place Holder Alt Text](/assets/images/posts/logo.png "Place Holder Title") | ![Place Holder Alt Text](/assets/images/posts/logo.png "Place Holder Title") | 
