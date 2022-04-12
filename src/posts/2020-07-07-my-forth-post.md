@@ -1,19 +1,10 @@
 ---
-title: 'My forth post'
+title: PlaceHolder Link
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: 2020-07-07T00:00:00Z
+date: 2020-07-07T00:00:00.000Z
 ---
+Place Holder Body
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Example with image:
 
-![Error](/assets/images/posts/error.png)
-
-Example code block:
-
-```js
-function myFunction() {
-  return true;
-}
-```
+![Place Holder Alt Text](/assets/images/posts/logo.png "Place Holder Title")
