@@ -6,19 +6,17 @@ date: 2022-04-12T02:49:27.403Z
 ---
 ![Artwork done by Zachary Wilson](/assets/images/posts/logo.png "SDNS Logo")
 
-
-
 Mission, Vision, and Values
 
 The Mission, Vision, and Values of the San Diego Naturalist Society.
 
 Our Mission: Naturalize San Diego
 
-Our Vision: The San Diego Naturalist Society aims to create an organization of ecologically informed and engaged members that help the greater San Diego community connect with nature.
+Our Vision: The San Diego Naturalist Society envisions bringing together individuals and organizations to promote a nature-engaged community.
 
 Our Values: 
 
 * Education
-* Community
 * Action
+* Community
 * Transparency
