@@ -3,17 +3,9 @@ title: Current Events
 description: April Current Events
 date: 2022-04-12T23:10:39.010Z
 ---
-Barona Mesa Earth Day Bioblitz April 23rd, 2022 9:00AM - 8:00PM 
+Torrey Pines Bioblitz July 16th,  2022 9:30AM - 5:00PM 
 
-Official Invite
-
-[RSVP HERE](https://docs.google.com/forms/d/1QMsjzO1oUrKpRfAYiJqCSKSssP2AEkn9jO52CXeAZRc/edit?usp=sharing)
-
-Donate now
-
-
-
-| BioBlitz Details                              | April 23rd, 2022 9:00AM - 8:00PM                        |
-| --------------------------------------------- | ------------------------------------------------------- |
-| ![](/assets/images/posts/bmbb-invite-1-1.png) | ![](/assets/images/posts/bioblitz-rsvp-form-qrcode.png) |
-| ![](/assets/images/posts/logo.png)| ![](/assets/images/posts/bmbb-invite-1-2.png) |
+| BioBlitz Details                          | April 23rd, 2022 9:00AM - 8:00PM                                                                                                                                                          |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](/assets/images/posts/tpbb-invite.png) | ![](https://lh6.googleusercontent.com/UYdS-6ivpXOr8VFYT18qZs4pdzeILJb4nqSSR6J2dM3Qy_5LxZgKhTvPVwR_C4HUvJEu7_sEefjP863ZxlUErW3VV1-rvazg189vHIX9zMr14m4srcx_h2TWOxU5wvLfNu2sBtLDDcHmyDDpcQ) |
+| ![](/assets/images/posts/logo.png)        | ![](/assets/images/posts/tpbb-invite-2.png)                                                                                                                                               |
