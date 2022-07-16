@@ -1,42 +1,12 @@
 ---
-title: "BioBlitz #01 Raffle Winners"
-description: Raffle resullts from our first ever BioBlitz event!
-date: 2022-04-27T04:23:10.970Z
+title: Torrey Pines BioBlitz Nature Journal
+description: Nature Journal
+date: 2022-07-16T06:45:24.218Z
 ---
-# Greetings Blitzers!
-
-Here are the winners of our huge raffle!!!!!!!!!!!! We will contact you with details on recieving your prize.
-
-SDNS Merch Kit - Anne R.
 
 
+![](/assets/images/posts/tpbb-nature-journal.png)
 
-Naturalist Kit #01 - Emily O. 
+![](/assets/images/posts/tpbb-nature-journal-2.png)
 
-Naturalist Kit #02 - Karen M. 
-
-Naturalist Kit #03 - Trevor B.
-
-
-
-Seed Pack #01- Stuart L. 
-
-Seed Pack #02 - Alex W. 
-
-Seed Pack #03 - Trevor B. 
-
-Seed Pack #04 - Anne R. 
-
-Seed Pack #05 - Parker C. 
-
-Seed Pack #06 - Parker C. 
-
-Seed Pack #07 - Alex W. 
-
-Seed Pack #08 - Emily S. 
-
-Seed Pack #09 - Emily S. 
-
-Seed Pack #10 - Steven L.\
-\
-Thank you to everyone who attended and stay tuned for more updates on our Discord.
+![](/assets/images/posts/tpbb-nature-journal-3.png)
