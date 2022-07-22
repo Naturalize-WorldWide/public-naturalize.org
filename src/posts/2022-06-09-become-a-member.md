@@ -1,7 +1,7 @@
 ---
 title: Become a Member
 description: SDNS offers many ways to stay up to date with us!
-date: 2022-06-09T00:01:36.791Z
+date: 2022-04-13T19:00:36.791Z
 ---
 ### Step 1: Complete the sign-up form
 
