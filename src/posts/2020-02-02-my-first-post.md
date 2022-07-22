@@ -2,7 +2,7 @@
 title: About Us
 description: Learn more about the San Diego Naturalist Society and find a way to
   engage today!
-date: 2022-04-12T02:49:27.403Z
+date: 2022-04-14T02:49:27.403Z
 ---
 ![Artwork done by Zachary Wilson](/assets/images/posts/logo.png "SDNS Logo")
 
