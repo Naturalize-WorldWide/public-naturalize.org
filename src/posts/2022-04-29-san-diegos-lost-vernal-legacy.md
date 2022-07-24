@@ -3,11 +3,13 @@ title: Barona Mesa BioBlitz
 description: Barona Mesa BioBlitz on Earth Day
 date: 2022-04-23T16:30:00.000Z
 ---
+## ***Barona Mesa BioBlitz April 23rd, 2022***
 
+### 9:30AM - 5:30PM
 
-# ***Barona Mesa BioBlitz April 23rd, 2022***
+##### A celebration of biodiversity!
 
-## 9:30AM - 5:30PM
+![A total of 316 observations were made](/assets/images/posts/bmbbinatstat.png "Blitzers (our awesome attendees) collected natural data.")
 
 ![](/assets/images/posts/bmbb-invite-1-1.png)
 
