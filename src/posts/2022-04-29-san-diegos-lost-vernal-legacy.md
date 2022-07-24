@@ -7,9 +7,11 @@ date: 2022-04-23T16:30:00.000Z
 
 ### 9:30AM - 5:30PM
 
-##### A celebration of biodiversity!
+##### A community celebration of biodiversity in Ramona's Cleveland National Forest 
 
-![A total of 316 observations were made](/assets/images/posts/bmbbinatstat.png "Blitzers (our awesome attendees) collected natural data.")
+![](/assets/images/posts/bmbbinatstat.png)
+
+![](/assets/images/posts/pictures.png)
 
 ![](/assets/images/posts/bmbb-invite-1-1.png)
 
