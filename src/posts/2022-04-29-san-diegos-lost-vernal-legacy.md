@@ -9,7 +9,7 @@ date: 2022-04-23T16:30:00.000Z
 
 ##### A community celebration of biodiversity in Ramona's Cleveland National Forest
 
-![All while serving our natural communities in a meaningful way. ](/assets/images/posts/bmbbinatstat.png "Blitzers (our awesome volunteers) contributed 316 observations of 115 different species over a 5 mile area.")
+![Serving our natural communities in a meaningful way. ](/assets/images/posts/bmbbinatstat.png "Blitzers (our awesome volunteers) contributed 316 observations of 115 different species over a 5 mile area.")
 
 ![](/assets/images/posts/pictures.png)
 
