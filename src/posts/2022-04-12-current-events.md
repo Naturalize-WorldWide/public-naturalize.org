@@ -9,7 +9,11 @@ date: 2022-07-16T16:30:00.000Z
 
 ![](/assets/images/posts/screen-shot-2022-08-01-at-4.58.29-pm.png "Blitzers contributed 408 observations of 136 species!")
 
-![](/assets/images/posts/picturestpbb.png)
+![](/assets/images/posts/pictures-0000.png)
+
+![](/assets/images/posts/pictures-0001.png)
+
+![](/assets/images/posts/pictures-0002.png)
 
 ![](/assets/images/posts/tpbb-invite.png)
 
